@@ -1,4 +1,6 @@
-# VM_GMAIL
+# VM GMAIL
+VM GMAIL CHECKS THE INPUT GMAIL EMAIL DOMAIN AND TRY TO CHECK IT EXIST OR VALID
+
 ### **QLFX FOR CRACKING**
 Welcome to my OpenBullet repository! Here, I share configurations, scripts, and tips related to OpenBullet and cracking.
 
